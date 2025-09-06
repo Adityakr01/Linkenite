@@ -1,1 +1,26 @@
-# Linkenite
+Output
+
+| sender              | subject                                    | body                                                                                                       | extracted_phone   | extracted_email   |
+|:--------------------|:-------------------------------------------|:-----------------------------------------------------------------------------------------------------------|:------------------|:------------------|
+| eve@startup.io      | Help required with account verification    | Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.   |                   |                   |
+| diana@client.co     | General query about subscription           | Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?  |                   |                   |
+| eve@startup.io      | Immediate support needed for billing error | Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?              |                   |                   |
+| alice@example.com   | Urgent request: system access blocked      | Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?  |                   |                   |
+| eve@startup.io      | Question: integration with API             | Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.                |                   |                   |
+| alice@example.com   | Critical help needed for downtime          | Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?  |                   |                   |
+| diana@client.co     | Help required with account verification    | There is a billing error where I was charged twice. This needs immediate correction.                       |                   |                   |
+| diana@client.co     | Support needed for login issue             | I am facing issues with verifying my account. The verification email never arrived. Can you assist?        |                   |                   |
+| alice@example.com   | General query about subscription           | Our servers are down, and we need immediate support. This is highly critical.                              |                   |                   |
+| alice@example.com   | Help required with account verification    | Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.   |                   |                   |
+| diana@client.co     | Support needed for login issue             | Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?  |                   |                   |
+| alice@example.com   | Help required with account verification    | Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.   |                   |                   |
+| eve@startup.io      | Critical help needed for downtime          | Our servers are down, and we need immediate support. This is highly critical.                              |                   |                   |
+| alice@example.com   | Query about product pricing                | There is a billing error where I was charged twice. This needs immediate correction.                       |                   |                   |
+| alice@example.com   | General query about subscription           | I am facing issues with verifying my account. The verification email never arrived. Can you assist?        |                   |                   |
+| alice@example.com   | Immediate support needed for billing error | Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.                |                   |                   |
+| charlie@partner.org | Help required with account verification    | This is urgent – our system is completely inaccessible, and this is affecting our operations.              |                   |                   |
+| diana@client.co     | Request for refund process clarification   | Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update. |                   |                   |
+| eve@startup.io      | Query about product pricing                | Our servers are down, and we need immediate support. This is highly critical.                              |                   |                   |
+| bob@customer.com    | Urgent request: system access blocked      | Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.                |                   |                   |# Linkenite
+
+
